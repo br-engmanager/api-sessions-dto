@@ -1,4 +1,4 @@
-package br.com.tipo.api.sessions.dto;
+package br.com.engmanager.api.sessions.dto;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonProperty;
